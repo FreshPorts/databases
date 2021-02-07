@@ -40,6 +40,7 @@ pg02 has 2 package(s) x 10 core(s) x 2 hardware threads
 but we don't use them all
 
 \--no-owner is there to set ownership to postgres
+
 ``pg_restore -j 35 --no-owner -d freshports.prod freshports.org.dump``
 
 That fixes the permissions.
