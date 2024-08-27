@@ -1,4 +1,4 @@
-This repo contains the upgrade instructions to take a production FrsehPorts
+This repo contains the upgrade instructions to take a production FreshPorts
 database and convert it to use git.
 
 The original instructions are at https://news.freshports.org/2021/01/01/git-database-upgrade-process/
